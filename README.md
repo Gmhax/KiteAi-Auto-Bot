@@ -55,6 +55,9 @@ Click: Ctrl a+d
 
 
 
+
+
+
 The bot will prompt you to:
 1. Choose connection mode (Direct/Proxy)
 2. Choose wallet input mode (Manual/File)
