@@ -40,13 +40,20 @@ Ex.
 0x1234567890abcdef1234567890abcdef12345678
 0xabcdef1234567890abcdef1234567890abcdef12
 ```
-
-## 🚀 Usage
+4. Create a session:
+```
+screen -S gokite
+```
 
 Run the bot:
 ```bash
 npm run start
 ```
+
+5.Detach session:
+Click: Ctrl a+d
+
+
 
 The bot will prompt you to:
 1. Choose connection mode (Direct/Proxy)
