@@ -4,7 +4,7 @@ An automated interaction bot for Kite AI platform with multi-wallet and proxy su
 
 ## Register 
 
-- https://testnet.gokite.ai/?r=kxsQ3byj 
+- https://testnet.gokite.ai?r=nEynYxrR
 
 ## 🌟 Features
 
@@ -79,8 +79,7 @@ You can modify the following settings in `index.js`:
 
 ## 📢 Support
 
-Join our Telegram channel for updates and support:
-https://t.me/AirdropInsiderID
+
 
 ## ⚠️ Disclaimer
 
