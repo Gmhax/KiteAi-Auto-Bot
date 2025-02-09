@@ -36,10 +36,12 @@ npm install
 
 3. Create a `wallets.txt` file for multiple wallets:
 ```
+nano wallets.txt
+```
 Ex.
 0x1234567890abcdef1234567890abcdef12345678
 0xabcdef1234567890abcdef1234567890abcdef12
-```
+
 4. Create a session:
 ```
 screen -S gokite
